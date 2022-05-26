@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on projects pertaining to sleep, attention-span, consciousness, honestly anywhere that I can be useful and gain proficiency in data science. 
 - 📫 You can reach me here @amacbale, or email me at amacbale@gmail.com
 
+I'll be uploading projects here as I complete them. In the meantime, check out my master's thesis paper, where I used linear and non-linear quantile regression to model the dynamics of a predator-prey population between snowshoe hare and Canadian lynx!
 <!---
 amacbale/amacbale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
